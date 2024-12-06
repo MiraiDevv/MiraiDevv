@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**MiraiDevv/MiraiDevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm MiraiDevv, a passionate developer. ❤
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- **Languages & Frameworks**: C#, Java, Spring Boot, Microservices, TypeScript, JavaScript, NestJS, ReactJS, Angular
+- **Tools & Technologies**: Docker, DockerFile, Docker Compose, mongoDB, GraphQL, API restful
+
+---
+
+### 📚 Projects
+- [E-commerce App](https://github.com/matheustlo/e-commerce-app)
+- [PagBank Simply](https://github.com/matheustlo/pagbank-simply)
+- [StockerV5 Final](https://github.com/matheustlo/StockerV5_Final)
+- [Valinor](https://github.com/matheustlo/valinor)
+- [Desafio Back-end Newsletter Junior](https://github.com/matheustlo/desafio-back-end-newsletter-junior_Matheus)
+- [Vitor Bot](https://github.com/matheustlo/Vitor-Bot)
+
+---
+
+### 📫 Contact Information
+- **Email**: mirai.dev@outlook.com
+- **LinkedIn**: [Matheus Gabriel Tatangelo](https://www.linkedin.com/in/matheusgabrieltatangelo/)
+
+---
+
+### 🎓 Hobbies
+- Studying about Artificial Intelligence
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraiDevv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
