@@ -30,6 +30,5 @@
 - Studying about Artificial Intelligence
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiraiDevv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustlo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiraiDevv&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiraiDevv)](https://github.com/DenverCoder1/github-readme-streak-stats)
