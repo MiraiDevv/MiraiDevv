@@ -27,3 +27,4 @@
 </div>
 
 ![Snake animation](https://github.com/MiraiDevv/MiraiDevv/blob/output/github-contribution-grid-snake.svg)
+
