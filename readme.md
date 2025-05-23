@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ### Hi, I'm MiraiDevv, a passionate developer. ❤
+![Profile views](https://komarev.com/ghpvc/?username=MiraiDevv&label=Profile%20views&color=blueviolet&style=flat-square)
 
 ### 🛠 Skills
 - **Languages & Frameworks**: C#, Java, Spring Boot, Microservices, TypeScript, JavaScript, NestJS, ReactJS, Angular
@@ -25,9 +26,19 @@
 - **Ada Lovelace**: "I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand." [Source](https://www.inspiringquotes.us/author/7598-ada-lovelace)
 - **David Harold Blackwell**: "I'm not interested in doing research and I never have been. I'm interested in understanding, which is quite a different thing." [Source](https://www.inspiringquotes.us/author/6515-david-blackwell)
 
+### 📊 My GitHub Stats & Activity
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraiDevv&layout=compact&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiraiDevv&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MiraiDevv&theme=radical&hide_border=true"/>
 </div>
 
-![Snake animation](https://github.com/MiraiDevv/MiraiDevv/blob/output/github-contribution-grid-snake.svg)
+### 🏆 GitHub Profile Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MiraiDevv&theme=radical&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MiraiDevv/MiraiDevv/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MiraiDevv/MiraiDevv/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/MiraiDevv/MiraiDevv/blob/output/github-contribution-grid-snake.svg" />
+</picture>
